@@ -1,7 +1,7 @@
 
 ## Overview
 
-Python Drive Explorer is a Python project that allows users to interact with Google Drive data. It provides functionality to display files and folders, and the upcoming feature will allow users to download and view files directly from the application.
+Python Drive Manager is a Python project that allows users to interact with Google Drive data. It provides functionality to display files and folders, and the upcoming feature will allow users to download and view files directly from the application.
 
 ## Features
 
@@ -17,7 +17,7 @@ To use Python Drive Explorer, follow these steps:
     
     bashCopy code
     
-    `git clone https://github.com/your-username/python-drive-explorer.git` 
+    `git clone https://github.com/vedantsinggh/drivemanager.git` 
     
 2.  Install the required dependencies (if any):
     
